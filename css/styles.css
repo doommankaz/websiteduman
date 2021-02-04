@@ -1,0 +1,42 @@
+body {
+    font-family: 'Heebo', sans-serif;
+}
+
+h1 {
+    font-size: 3rem;
+    line-height: 2;
+}
+
+h2 {
+    font-size: 2rem;
+}
+
+.container-fluid {
+    padding: 2% 14%;
+    margin: auto;
+}
+
+.footer_text {
+    font-size: 1rem;
+}
+
+#header {
+    background-color: #DCE1E3;
+}
+
+#body_part1 {
+    background-color: #5C5F58;
+}
+
+#body_part2 {
+    background-color: #B73225;
+}
+
+#body_part3 {
+    background-color: #DADED4;
+}
+
+#footer {
+    position: bottom;
+    margin: auto;
+}
